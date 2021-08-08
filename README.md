@@ -1,1 +1,1 @@
-### <img align="left" width="28px" alt="Shival Gupta" src="https://github.com/Shival-Gupta/Shival-Gupta.github.io/blob/main/favicon.ico"> <a href="https://shival-gupta.github.io/" target="_blank>Click here</a> to visit the Website
+### <img align="left" width="28px" alt="Shival Gupta" src="https://github.com/Shival-Gupta/Shival-Gupta.github.io/blob/main/favicon.ico"> <a href="https://shival-gupta.github.io/" target="_blank">Click here</a> to visit the Website
